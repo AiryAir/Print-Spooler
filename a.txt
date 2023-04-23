@@ -1,0 +1,14 @@
+hello i am pratham
+this file is called a.txt
+
+this is the first file
+1 hehehhehe
+2 hahahahaha
+3 hohohohoho
+4 hello
+5 world
+6 and
+7 good morning
+8 good night
+9 good evening
+10 good afternoon
