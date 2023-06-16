@@ -1,10 +1,10 @@
-hello i am pratham
+hello world
 this file is called a.txt
 
 this is the first file
-1 hehehhehe
-2 hahahahaha
-3 hohohohoho
+1 mini
+2 project
+3 test
 4 hello
 5 world
 6 and
